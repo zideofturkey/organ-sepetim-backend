@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "admin",
+    "password": "admin123",
+    "role": "admin",
+    "lastLogin": "2025-05-30T18:21:26.613Z"
+  },
+  {
+    "id": 2,
+    "username": "user",
+    "password": "user123",
+    "role": "user",
+    "lastLogin": "2025-05-30T18:21:18.963Z"
+  },
+  {
+    "id": 1748628891255,
+    "username": "ediz",
+    "password": "bilemezsin",
+    "role": "user",
+    "lastLogin": null
+  }
+]
